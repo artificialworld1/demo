@@ -61,7 +61,7 @@ def asmit():
         elif "hello" in query:
             speak("hello")
         else:
-            speak("noo")
+            speak("cant answer")
 
 
 asmit()
